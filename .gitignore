@@ -1,3 +1,6 @@
 __pycache__/
+*.pyc
 venv/
 .idea/
+src/parser/driver/*
+src/parser/h5s/*
